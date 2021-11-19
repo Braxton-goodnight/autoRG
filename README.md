@@ -4,9 +4,8 @@ Includes all software code (GUI1 and GUI_scale_calibration), firmware (Arduino I
 
 # Requirements
 * Matlab 2020a or newer (Earlier versions may be able to run system, but is not guaranteed)
-* Arduino IDE 1.8.16 
 * Windows 10 Computer
-* Circuit Playground Express (CPX) (Adafruit Industries) and all other commercial electronics (see AutoRG_Assembly_SOP and Commercial Bill of Materials) for CPX bootloading and assay execution
+* Circuit Playground Express (CPX) (Adafruit Industries) and all other commercial electronics (see AutoRG_Assembly_SOP and Electronics_Bill_of_Materials) for CPX bootloading and assay execution
 
 # Purpose
 The autoRG system was developed to assist researchers in neurological studies of rat motor behavior. The system's hardware, software, and firmware was developed to be user-friendly, modular, reproducible, and low-cost to maximize objectivity and access to in vivo functional assessments. 
